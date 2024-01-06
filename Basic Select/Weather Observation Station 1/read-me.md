@@ -9,8 +9,8 @@ The `STATION` table is described as follows:
 | Field        | Type           |
 |--------------|----------------|
 | ID           | NUMBER         |
-| CITY         | VARCHAR2(21)   |
-| STATE        | VARCHAR2(2)    |
+| CITY         | VARCHAR   |
+| STATE        | VARCHAR  |
 | LAT_N        | NUMBER         |
 | LONG_W       | NUMBER         |
 
